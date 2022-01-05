@@ -5,8 +5,8 @@ import jupyterlab
 import numpy
 import scipy
 import matplotlib
-import opencv-contrib-python
-import scikit-image
-import scikit-learn
+import cv2
+import skimage
+import sklearn
 
 print("Well done!")
