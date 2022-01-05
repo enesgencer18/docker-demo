@@ -32,7 +32,7 @@ COPY /tests/run_tests.sh /tests
 RUN chmod +x /tests/test_import.py
 RUN chmod +x /tests/run_tests.sh
 
-# Run Tests
+# Run Tests 
 RUN /tests/run_tests.sh
 
 WORKDIR "docker-demo"
