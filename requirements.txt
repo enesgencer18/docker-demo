@@ -1,0 +1,11 @@
+jupyter
+jupyterlab
+numpy
+scipy
+matplotlib
+opencv-contrib-python
+scikit-image
+scikit-learn
+sentinelhub
+folium
+fiona
